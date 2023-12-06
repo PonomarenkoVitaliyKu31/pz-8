@@ -1,0 +1,3 @@
+C:/Users/UseR/OneDrive/Рабочий стол/Operation_System_lab7-8/practise8/exercise1_2/cmake-build-debug/CMakeFiles/exercise1_2.dir
+C:/Users/UseR/OneDrive/Рабочий стол/Operation_System_lab7-8/practise8/exercise1_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/UseR/OneDrive/Рабочий стол/Operation_System_lab7-8/practise8/exercise1_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
